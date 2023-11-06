@@ -3,7 +3,7 @@ Practicing cleaning data and using machine learning algorithms </br>
 link to the data set  (https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset)
 
 ```
-        LATITUDE  LONGITUDE      PARCELNO  SALE_PRC  LND_SQFOOT  TOT_LVG_AREA  \
+        LATITUDE  LONGITUDE      PARCELNO  SALE_PRC  LND_SQFOOT  TOT_LVG_AREA  
 0      25.891031 -80.160561  622280070620  440000.0        9375          1753   
 1      25.891324 -80.153968  622280100460  349000.0        9375          1715   
 2      25.891334 -80.153740  622280100470  800000.0        9375          2276   
@@ -16,7 +16,7 @@ link to the data set  (https://www.kaggle.com/datasets/deepcontractor/miami-hous
 13930  25.784007 -80.257542  131320040330  315000.0        7500          1613   
 13931  25.784387 -80.258901  131320040700  250000.0        8833          1867   
 
-       SPEC_FEAT_VAL  RAIL_DIST  OCEAN_DIST  WATER_DIST  CNTR_DIST  \
+       SPEC_FEAT_VAL  RAIL_DIST  OCEAN_DIST  WATER_DIST  CNTR_DIST  
 0                  0     2815.9     12811.4       347.6    42815.3   
 1                  0     4359.1     10648.4       337.8    43504.9   
 2              49206     4412.9     10574.1       297.1    43530.4   
