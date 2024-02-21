@@ -1,5 +1,6 @@
 # MiamiHousing
 Practicing cleaning data and using machine learning algorithms </br>
+This was my first ever model, so feel free to suggest improvements:) </br>
 link to the data set  (https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset)
 
 ```
